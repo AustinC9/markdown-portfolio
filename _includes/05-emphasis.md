@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Slicing the golf ball like a pro.** :+1:
+*Eating copious amounts of mac and cheese* :yum:
+__Love learning to *code* like a boss__ :100:
